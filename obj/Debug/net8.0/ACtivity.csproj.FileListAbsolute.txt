@@ -1,0 +1,14 @@
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/bin/Debug/net8.0/ACtivity
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/bin/Debug/net8.0/ACtivity.deps.json
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/bin/Debug/net8.0/ACtivity.runtimeconfig.json
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/bin/Debug/net8.0/ACtivity.dll
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/bin/Debug/net8.0/ACtivity.pdb
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.AssemblyInfoInputs.cache
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.AssemblyInfo.cs
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.csproj.CoreCompileInputs.cache
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.dll
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/refint/ACtivity.dll
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.pdb
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ACtivity.genruntimeconfig.cache
+/home/jhose/Documentos/Modulosusfx/Modulo 6/ACtivity/obj/Debug/net8.0/ref/ACtivity.dll
